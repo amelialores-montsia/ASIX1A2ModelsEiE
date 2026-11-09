@@ -1,2 +1,2 @@
-# ASIX1A2ModelsEiE
-Activitat 2 ASIX1 Crear una web sobre Models econòmics i estratègies + Inversió i avaluació
+# ra1-xml-ra2-html-css-activitat2-grup6
+Grup 6 - Mètriques de Sostenibilitat
