@@ -1,0 +1,19 @@
+h1 {
+    margin: 0;
+    font-size: 2.2em;
+}
+
+.subtitol {
+    margin: 5px 0 0 0;
+    font-size: 1em;
+}
+
+h2 {
+    color: #256f46;
+    margin-top: 0;
+}
+
+p {
+    line-height: 1.5;
+    color: #333;
+}

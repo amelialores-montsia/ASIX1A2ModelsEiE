@@ -1,0 +1,29 @@
+.llista-principis {
+    line-height: 1.6;
+}
+
+.llista-acv {
+    line-height: 1.6;
+}
+
+.taula-materials {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.taula-materials th {
+    background-color: #3fb984;
+    color: white;
+    padding: 10px;
+    text-align: left;
+}
+
+.taula-materials td {
+    border: 1px solid #c9f2dc;
+    padding: 8px;
+}
+
+.taula-materials tr:nth-child(even) {
+    background-color: #f0fff7;
+}
